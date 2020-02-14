@@ -1,0 +1,17 @@
+measure,zscore_type,Number_of_loss,Gross_Loss,Number_of_profit,Gross_Profit,Net_Profit/Loss
+ratio,(1dMA-21dMA)/21dstd,7,-335.5,16,1055.2,719.7
+ratio,(5dMA-21dMA)/21dstd,4,-128.2,12,729.1,600.9
+ratio,(value-mean)/std,7,-699.8,16,940.45,240.65
+ratio,(value-cumulative mean)/cumulative std,6,-396.8,17,965.75,568.95
+spread,(1dMA-21dMA)/21dstd,8,-478.4,13,453.05,-25.35
+spread,(5dMA-21dMA)/21dstd,0,0.0,1,3.65,3.65
+spread,(value-mean)/std,11,-968.45,10,489.3,-479.15
+spread,(value-cumulative mean)/cumulative std,6,-737.9,17,875.25,137.35
+differential,(1dMA-21dMA)/21dstd,7,-337.05,16,1082.75,745.7
+differential,(5dMA-21dMA)/21dstd,3,-116.05,13,772.85,656.8
+differential,(value-mean)/std,9,-833.3,14,524.15,-309.15
+differential,(value-cumulative mean)/cumulative std,5,-376.0,18,996.25,620.25
+OLS,(1dMA-21dMA)/21dstd,12,-712.4,11,592.85,-119.55
+OLS,(5dMA-21dMA)/21dstd,10,-330.3,13,402.8,72.5
+OLS,(value-mean)/std,13,-566.9,10,796.65,229.75
+OLS,(value-cumulative mean)/cumulative std,13,-604.35,10,431.15,-173.2

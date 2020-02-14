@@ -1,0 +1,320 @@
+
+{'ratio': {'\nmeasure=(1dMA-21dMA)/21dstd\n': {'Number_of_loss': 7, 'Gross_Loss': -335.5, 'Number_of_profit': 16, 'Gross_Profit': 1055.2}}}
+
+{'ratio': {'\nmeasure=(5dMA-21dMA)/21dstd\n': {'Number_of_loss': 4, 'Gross_Loss': -128.2, 'Number_of_profit': 12, 'Gross_Profit': 729.1}}}
+
+{'ratio': {'\nmeasure=(value-mean)/std\n': {'Number_of_loss': 7, 'Gross_Loss': -699.8, 'Number_of_profit': 16, 'Gross_Profit': 940.45}}}
+
+{'ratio': {'\nmeasure=(value-cumulative mean)/cumulative std\n': {'Number_of_loss': 6, 'Gross_Loss': -396.8, 'Number_of_profit': 17, 'Gross_Profit': 965.75}}}
+
+{'spread': {'\nmeasure=(1dMA-21dMA)/21dstd\n': {'Number_of_loss': 8, 'Gross_Loss': -478.4, 'Number_of_profit': 13, 'Gross_Profit': 453.05}}}
+
+{'spread': {'\nmeasure=(5dMA-21dMA)/21dstd\n': {'Number_of_loss': 0, 'Gross_Loss': 0, 'Number_of_profit': 1, 'Gross_Profit': 3.65}}}
+
+{'spread': {'\nmeasure=(value-mean)/std\n': {'Number_of_loss': 11, 'Gross_Loss': -968.45, 'Number_of_profit': 10, 'Gross_Profit': 489.3}}}
+
+{'spread': {'\nmeasure=(value-cumulative mean)/cumulative std\n': {'Number_of_loss': 6, 'Gross_Loss': -737.9, 'Number_of_profit': 17, 'Gross_Profit': 875.25}}}
+
+{'differential': {'\nmeasure=(1dMA-21dMA)/21dstd\n': {'Number_of_loss': 7, 'Gross_Loss': -337.05, 'Number_of_profit': 16, 'Gross_Profit': 1082.75}}}
+
+{'differential': {'\nmeasure=(5dMA-21dMA)/21dstd\n': {'Number_of_loss': 3, 'Gross_Loss': -116.05, 'Number_of_profit': 13, 'Gross_Profit': 772.85}}}
+
+{'differential': {'\nmeasure=(value-mean)/std\n': {'Number_of_loss': 9, 'Gross_Loss': -833.3, 'Number_of_profit': 14, 'Gross_Profit': 524.15}}}
+
+{'differential': {'\nmeasure=(value-cumulative mean)/cumulative std\n': {'Number_of_loss': 5, 'Gross_Loss': -376.0, 'Number_of_profit': 18, 'Gross_Profit': 996.25}}}
+
+{'OLS': {'\nmeasure=(1dMA-21dMA)/21dstd\n': {'Number_of_loss': 12, 'Gross_Loss': -712.4, 'Number_of_profit': 11, 'Gross_Profit': 592.85}}}
+
+{'OLS': {'\nmeasure=(5dMA-21dMA)/21dstd\n': {'Number_of_loss': 10, 'Gross_Loss': -330.3, 'Number_of_profit': 13, 'Gross_Profit': 402.8}}}
+
+{'OLS': {'\nmeasure=(value-mean)/std\n': {'Number_of_loss': 13, 'Gross_Loss': -566.9, 'Number_of_profit': 10, 'Gross_Profit': 796.65}}}
+
+{'OLS': {'\nmeasure=(value-cumulative mean)/cumulative std\n': {'Number_of_loss': 13, 'Gross_Loss': -604.35, 'Number_of_profit': 10, 'Gross_Profit': 431.15}}}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 7, 'Gross_Loss': -335.5, 'Number_of_profit': 16, 'Gross_Profit': 1055.2}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 4, 'Gross_Loss': -128.2, 'Number_of_profit': 12, 'Gross_Profit': 729.1}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 7, 'Gross_Loss': -699.8, 'Number_of_profit': 16, 'Gross_Profit': 940.45}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 6, 'Gross_Loss': -396.8, 'Number_of_profit': 17, 'Gross_Profit': 965.75}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 8, 'Gross_Loss': -478.4, 'Number_of_profit': 13, 'Gross_Profit': 453.05}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 0, 'Gross_Loss': 0, 'Number_of_profit': 1, 'Gross_Profit': 3.65}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 11, 'Gross_Loss': -968.45, 'Number_of_profit': 10, 'Gross_Profit': 489.3}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 6, 'Gross_Loss': -737.9, 'Number_of_profit': 17, 'Gross_Profit': 875.25}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 7, 'Gross_Loss': -337.05, 'Number_of_profit': 16, 'Gross_Profit': 1082.75}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 3, 'Gross_Loss': -116.05, 'Number_of_profit': 13, 'Gross_Profit': 772.85}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 9, 'Gross_Loss': -833.3, 'Number_of_profit': 14, 'Gross_Profit': 524.15}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 5, 'Gross_Loss': -376.0, 'Number_of_profit': 18, 'Gross_Profit': 996.25}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 12, 'Gross_Loss': -712.4, 'Number_of_profit': 11, 'Gross_Profit': 592.85}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 10, 'Gross_Loss': -330.3, 'Number_of_profit': 13, 'Gross_Profit': 402.8}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 13, 'Gross_Loss': -566.9, 'Number_of_profit': 10, 'Gross_Profit': 796.65}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 13, 'Gross_Loss': -604.35, 'Number_of_profit': 10, 'Gross_Profit': 431.15}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 7, 'Gross_Loss': -335.5, 'Number_of_profit': 16, 'Gross_Profit': 1055.2}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 4, 'Gross_Loss': -128.2, 'Number_of_profit': 12, 'Gross_Profit': 729.1}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 7, 'Gross_Loss': -699.8, 'Number_of_profit': 16, 'Gross_Profit': 940.45}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 6, 'Gross_Loss': -396.8, 'Number_of_profit': 17, 'Gross_Profit': 965.75}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 8, 'Gross_Loss': -478.4, 'Number_of_profit': 13, 'Gross_Profit': 453.05}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 0, 'Gross_Loss': 0, 'Number_of_profit': 1, 'Gross_Profit': 3.65}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 11, 'Gross_Loss': -968.45, 'Number_of_profit': 10, 'Gross_Profit': 489.3}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 6, 'Gross_Loss': -737.9, 'Number_of_profit': 17, 'Gross_Profit': 875.25}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 7, 'Gross_Loss': -337.05, 'Number_of_profit': 16, 'Gross_Profit': 1082.75}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 3, 'Gross_Loss': -116.05, 'Number_of_profit': 13, 'Gross_Profit': 772.85}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 9, 'Gross_Loss': -833.3, 'Number_of_profit': 14, 'Gross_Profit': 524.15}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 5, 'Gross_Loss': -376.0, 'Number_of_profit': 18, 'Gross_Profit': 996.25}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 12, 'Gross_Loss': -712.4, 'Number_of_profit': 11, 'Gross_Profit': 592.85}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 10, 'Gross_Loss': -330.3, 'Number_of_profit': 13, 'Gross_Profit': 402.8}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 13, 'Gross_Loss': -566.9, 'Number_of_profit': 10, 'Gross_Profit': 796.65}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 13, 'Gross_Loss': -604.35, 'Number_of_profit': 10, 'Gross_Profit': 431.15}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 7, 'Gross_Loss': -335.5, 'Number_of_profit': 16, 'Gross_Profit': 1055.2}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 4, 'Gross_Loss': -128.2, 'Number_of_profit': 12, 'Gross_Profit': 729.1}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 7, 'Gross_Loss': -699.8, 'Number_of_profit': 16, 'Gross_Profit': 940.45}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 6, 'Gross_Loss': -396.8, 'Number_of_profit': 17, 'Gross_Profit': 965.75}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 8, 'Gross_Loss': -478.4, 'Number_of_profit': 13, 'Gross_Profit': 453.05}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 0, 'Gross_Loss': 0, 'Number_of_profit': 1, 'Gross_Profit': 3.65}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 11, 'Gross_Loss': -968.45, 'Number_of_profit': 10, 'Gross_Profit': 489.3}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 6, 'Gross_Loss': -737.9, 'Number_of_profit': 17, 'Gross_Profit': 875.25}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 7, 'Gross_Loss': -337.05, 'Number_of_profit': 16, 'Gross_Profit': 1082.75}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 3, 'Gross_Loss': -116.05, 'Number_of_profit': 13, 'Gross_Profit': 772.85}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 9, 'Gross_Loss': -833.3, 'Number_of_profit': 14, 'Gross_Profit': 524.15}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 5, 'Gross_Loss': -376.0, 'Number_of_profit': 18, 'Gross_Profit': 996.25}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 12, 'Gross_Loss': -712.4, 'Number_of_profit': 11, 'Gross_Profit': 592.85}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 10, 'Gross_Loss': -330.3, 'Number_of_profit': 13, 'Gross_Profit': 402.8}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 13, 'Gross_Loss': -566.9, 'Number_of_profit': 10, 'Gross_Profit': 796.65}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 13, 'Gross_Loss': -604.35, 'Number_of_profit': 10, 'Gross_Profit': 431.15}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 7, 'Gross_Loss': -335.5, 'Number_of_profit': 16, 'Gross_Profit': 1055.2}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 4, 'Gross_Loss': -128.2, 'Number_of_profit': 12, 'Gross_Profit': 729.1}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 7, 'Gross_Loss': -699.8, 'Number_of_profit': 16, 'Gross_Profit': 940.45}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 6, 'Gross_Loss': -396.8, 'Number_of_profit': 17, 'Gross_Profit': 965.75}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 8, 'Gross_Loss': -478.4, 'Number_of_profit': 13, 'Gross_Profit': 453.05}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 0, 'Gross_Loss': 0, 'Number_of_profit': 1, 'Gross_Profit': 3.65}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 11, 'Gross_Loss': -968.45, 'Number_of_profit': 10, 'Gross_Profit': 489.3}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 6, 'Gross_Loss': -737.9, 'Number_of_profit': 17, 'Gross_Profit': 875.25}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 7, 'Gross_Loss': -337.05, 'Number_of_profit': 16, 'Gross_Profit': 1082.75}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 3, 'Gross_Loss': -116.05, 'Number_of_profit': 13, 'Gross_Profit': 772.85}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 9, 'Gross_Loss': -833.3, 'Number_of_profit': 14, 'Gross_Profit': 524.15}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 5, 'Gross_Loss': -376.0, 'Number_of_profit': 18, 'Gross_Profit': 996.25}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 12, 'Gross_Loss': -712.4, 'Number_of_profit': 11, 'Gross_Profit': 592.85}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 10, 'Gross_Loss': -330.3, 'Number_of_profit': 13, 'Gross_Profit': 402.8}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 13, 'Gross_Loss': -566.9, 'Number_of_profit': 10, 'Gross_Profit': 796.65}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 13, 'Gross_Loss': -604.35, 'Number_of_profit': 10, 'Gross_Profit': 431.15}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 7, 'Gross_Loss': -335.5, 'Number_of_profit': 16, 'Gross_Profit': 1055.2, 'Net_Profit': 719.7}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 4, 'Gross_Loss': -128.2, 'Number_of_profit': 12, 'Gross_Profit': 729.1, 'Net_Profit': 600.9}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 7, 'Gross_Loss': -699.8, 'Number_of_profit': 16, 'Gross_Profit': 940.45, 'Net_Profit': 240.65}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 6, 'Gross_Loss': -396.8, 'Number_of_profit': 17, 'Gross_Profit': 965.75, 'Net_Profit': 568.95}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 8, 'Gross_Loss': -478.4, 'Number_of_profit': 13, 'Gross_Profit': 453.05, 'Net_Loss': -25.35}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 0, 'Gross_Loss': 0, 'Number_of_profit': 1, 'Gross_Profit': 3.65, 'Net_Profit': 3.65}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 11, 'Gross_Loss': -968.45, 'Number_of_profit': 10, 'Gross_Profit': 489.3, 'Net_Loss': -479.15}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 6, 'Gross_Loss': -737.9, 'Number_of_profit': 17, 'Gross_Profit': 875.25, 'Net_Profit': 137.35}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 7, 'Gross_Loss': -337.05, 'Number_of_profit': 16, 'Gross_Profit': 1082.75, 'Net_Profit': 745.7}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 3, 'Gross_Loss': -116.05, 'Number_of_profit': 13, 'Gross_Profit': 772.85, 'Net_Profit': 656.8}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 9, 'Gross_Loss': -833.3, 'Number_of_profit': 14, 'Gross_Profit': 524.15, 'Net_Loss': -309.15}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 5, 'Gross_Loss': -376.0, 'Number_of_profit': 18, 'Gross_Profit': 996.25, 'Net_Profit': 620.25}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 12, 'Gross_Loss': -712.4, 'Number_of_profit': 11, 'Gross_Profit': 592.85, 'Net_Loss': -119.55}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 10, 'Gross_Loss': -330.3, 'Number_of_profit': 13, 'Gross_Profit': 402.8, 'Net_Profit': 72.5}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 13, 'Gross_Loss': -566.9, 'Number_of_profit': 10, 'Gross_Profit': 796.65, 'Net_Profit': 229.75}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 13, 'Gross_Loss': -604.35, 'Number_of_profit': 10, 'Gross_Profit': 431.15, 'Net_Loss': -173.2}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 7, 'Gross_Loss': -335.5, 'Number_of_profit': 16, 'Gross_Profit': 1055.2, 'Net_Profit/Loss': 719.7}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 4, 'Gross_Loss': -128.2, 'Number_of_profit': 12, 'Gross_Profit': 729.1, 'Net_Profit/Loss': 600.9}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 7, 'Gross_Loss': -699.8, 'Number_of_profit': 16, 'Gross_Profit': 940.45, 'Net_Profit/Loss': 240.65}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 6, 'Gross_Loss': -396.8, 'Number_of_profit': 17, 'Gross_Profit': 965.75, 'Net_Profit/Loss': 568.95}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 8, 'Gross_Loss': -478.4, 'Number_of_profit': 13, 'Gross_Profit': 453.05, 'Net_Profit/Loss': -25.35}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 0, 'Gross_Loss': 0, 'Number_of_profit': 1, 'Gross_Profit': 3.65, 'Net_Profit/Loss': 3.65}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 11, 'Gross_Loss': -968.45, 'Number_of_profit': 10, 'Gross_Profit': 489.3, 'Net_Profit/Loss': -479.15}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 6, 'Gross_Loss': -737.9, 'Number_of_profit': 17, 'Gross_Profit': 875.25, 'Net_Profit/Loss': 137.35}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 7, 'Gross_Loss': -337.05, 'Number_of_profit': 16, 'Gross_Profit': 1082.75, 'Net_Profit/Loss': 745.7}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 3, 'Gross_Loss': -116.05, 'Number_of_profit': 13, 'Gross_Profit': 772.85, 'Net_Profit/Loss': 656.8}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 9, 'Gross_Loss': -833.3, 'Number_of_profit': 14, 'Gross_Profit': 524.15, 'Net_Profit/Loss': -309.15}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 5, 'Gross_Loss': -376.0, 'Number_of_profit': 18, 'Gross_Profit': 996.25, 'Net_Profit/Loss': 620.25}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 12, 'Gross_Loss': -712.4, 'Number_of_profit': 11, 'Gross_Profit': 592.85, 'Net_Profit/Loss': -119.55}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 10, 'Gross_Loss': -330.3, 'Number_of_profit': 13, 'Gross_Profit': 402.8, 'Net_Profit/Loss': 72.5}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 13, 'Gross_Loss': -566.9, 'Number_of_profit': 10, 'Gross_Profit': 796.65, 'Net_Profit/Loss': 229.75}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 13, 'Gross_Loss': -604.35, 'Number_of_profit': 10, 'Gross_Profit': 431.15, 'Net_Profit/Loss': -173.2}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 7, 'Gross_Loss': -335.5, 'Number_of_profit': 16, 'Gross_Profit': 1055.2, 'Net_Profit/Loss': 719.7}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 4, 'Gross_Loss': -128.2, 'Number_of_profit': 12, 'Gross_Profit': 729.1, 'Net_Profit/Loss': 600.9}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 7, 'Gross_Loss': -699.8, 'Number_of_profit': 16, 'Gross_Profit': 940.45, 'Net_Profit/Loss': 240.65}
+
+{'measure': 'ratio', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 6, 'Gross_Loss': -396.8, 'Number_of_profit': 17, 'Gross_Profit': 965.75, 'Net_Profit/Loss': 568.95}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 8, 'Gross_Loss': -478.4, 'Number_of_profit': 13, 'Gross_Profit': 453.05, 'Net_Profit/Loss': -25.35}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 0, 'Gross_Loss': 0, 'Number_of_profit': 1, 'Gross_Profit': 3.65, 'Net_Profit/Loss': 3.65}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 11, 'Gross_Loss': -968.45, 'Number_of_profit': 10, 'Gross_Profit': 489.3, 'Net_Profit/Loss': -479.15}
+
+{'measure': 'spread', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 6, 'Gross_Loss': -737.9, 'Number_of_profit': 17, 'Gross_Profit': 875.25, 'Net_Profit/Loss': 137.35}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 7, 'Gross_Loss': -337.05, 'Number_of_profit': 16, 'Gross_Profit': 1082.75, 'Net_Profit/Loss': 745.7}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 3, 'Gross_Loss': -116.05, 'Number_of_profit': 13, 'Gross_Profit': 772.85, 'Net_Profit/Loss': 656.8}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 9, 'Gross_Loss': -833.3, 'Number_of_profit': 14, 'Gross_Profit': 524.15, 'Net_Profit/Loss': -309.15}
+
+{'measure': 'differential', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 5, 'Gross_Loss': -376.0, 'Number_of_profit': 18, 'Gross_Profit': 996.25, 'Net_Profit/Loss': 620.25}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(1dMA-21dMA)/21dstd\n', 'Number_of_loss': 12, 'Gross_Loss': -712.4, 'Number_of_profit': 11, 'Gross_Profit': 592.85, 'Net_Profit/Loss': -119.55}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(5dMA-21dMA)/21dstd\n', 'Number_of_loss': 10, 'Gross_Loss': -330.3, 'Number_of_profit': 13, 'Gross_Profit': 402.8, 'Net_Profit/Loss': 72.5}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(value-mean)/std\n', 'Number_of_loss': 13, 'Gross_Loss': -566.9, 'Number_of_profit': 10, 'Gross_Profit': 796.65, 'Net_Profit/Loss': 229.75}
+
+{'measure': 'OLS', 'zscore_type': '\nmeasure=(value-cumulative mean)/cumulative std\n', 'Number_of_loss': 13, 'Gross_Loss': -604.35, 'Number_of_profit': 10, 'Gross_Profit': 431.15, 'Net_Profit/Loss': -173.2}
+
+{'measure': 'ratio', 'zscore_type': 'measure=(1dMA-21dMA)/21dstd', 'Number_of_loss': 7, 'Gross_Loss': -335.5, 'Number_of_profit': 16, 'Gross_Profit': 1055.2, 'Net_Profit/Loss': 719.7}
+
+{'measure': 'ratio', 'zscore_type': 'measure=(5dMA-21dMA)/21dstd', 'Number_of_loss': 4, 'Gross_Loss': -128.2, 'Number_of_profit': 12, 'Gross_Profit': 729.1, 'Net_Profit/Loss': 600.9}
+
+{'measure': 'ratio', 'zscore_type': 'measure=(value-mean)/std', 'Number_of_loss': 7, 'Gross_Loss': -699.8, 'Number_of_profit': 16, 'Gross_Profit': 940.45, 'Net_Profit/Loss': 240.65}
+
+{'measure': 'ratio', 'zscore_type': 'measure=(value-cumulative mean)/cumulative std', 'Number_of_loss': 6, 'Gross_Loss': -396.8, 'Number_of_profit': 17, 'Gross_Profit': 965.75, 'Net_Profit/Loss': 568.95}
+
+{'measure': 'spread', 'zscore_type': 'measure=(1dMA-21dMA)/21dstd', 'Number_of_loss': 8, 'Gross_Loss': -478.4, 'Number_of_profit': 13, 'Gross_Profit': 453.05, 'Net_Profit/Loss': -25.35}
+
+{'measure': 'spread', 'zscore_type': 'measure=(5dMA-21dMA)/21dstd', 'Number_of_loss': 0, 'Gross_Loss': 0, 'Number_of_profit': 1, 'Gross_Profit': 3.65, 'Net_Profit/Loss': 3.65}
+
+{'measure': 'spread', 'zscore_type': 'measure=(value-mean)/std', 'Number_of_loss': 11, 'Gross_Loss': -968.45, 'Number_of_profit': 10, 'Gross_Profit': 489.3, 'Net_Profit/Loss': -479.15}
+
+{'measure': 'spread', 'zscore_type': 'measure=(value-cumulative mean)/cumulative std', 'Number_of_loss': 6, 'Gross_Loss': -737.9, 'Number_of_profit': 17, 'Gross_Profit': 875.25, 'Net_Profit/Loss': 137.35}
+
+{'measure': 'differential', 'zscore_type': 'measure=(1dMA-21dMA)/21dstd', 'Number_of_loss': 7, 'Gross_Loss': -337.05, 'Number_of_profit': 16, 'Gross_Profit': 1082.75, 'Net_Profit/Loss': 745.7}
+
+{'measure': 'differential', 'zscore_type': 'measure=(5dMA-21dMA)/21dstd', 'Number_of_loss': 3, 'Gross_Loss': -116.05, 'Number_of_profit': 13, 'Gross_Profit': 772.85, 'Net_Profit/Loss': 656.8}
+
+{'measure': 'differential', 'zscore_type': 'measure=(value-mean)/std', 'Number_of_loss': 9, 'Gross_Loss': -833.3, 'Number_of_profit': 14, 'Gross_Profit': 524.15, 'Net_Profit/Loss': -309.15}
+
+{'measure': 'differential', 'zscore_type': 'measure=(value-cumulative mean)/cumulative std', 'Number_of_loss': 5, 'Gross_Loss': -376.0, 'Number_of_profit': 18, 'Gross_Profit': 996.25, 'Net_Profit/Loss': 620.25}
+
+{'measure': 'OLS', 'zscore_type': 'measure=(1dMA-21dMA)/21dstd', 'Number_of_loss': 12, 'Gross_Loss': -712.4, 'Number_of_profit': 11, 'Gross_Profit': 592.85, 'Net_Profit/Loss': -119.55}
+
+{'measure': 'OLS', 'zscore_type': 'measure=(5dMA-21dMA)/21dstd', 'Number_of_loss': 10, 'Gross_Loss': -330.3, 'Number_of_profit': 13, 'Gross_Profit': 402.8, 'Net_Profit/Loss': 72.5}
+
+{'measure': 'OLS', 'zscore_type': 'measure=(value-mean)/std', 'Number_of_loss': 13, 'Gross_Loss': -566.9, 'Number_of_profit': 10, 'Gross_Profit': 796.65, 'Net_Profit/Loss': 229.75}
+
+{'measure': 'OLS', 'zscore_type': 'measure=(value-cumulative mean)/cumulative std', 'Number_of_loss': 13, 'Gross_Loss': -604.35, 'Number_of_profit': 10, 'Gross_Profit': 431.15, 'Net_Profit/Loss': -173.2}
+
+{'measure': 'ratio', 'zscore_type': '(1dMA-21dMA)/21dstd', 'Number_of_loss': 7, 'Gross_Loss': -335.5, 'Number_of_profit': 16, 'Gross_Profit': 1055.2, 'Net_Profit/Loss': 719.7}
+
+{'measure': 'ratio', 'zscore_type': '(5dMA-21dMA)/21dstd', 'Number_of_loss': 4, 'Gross_Loss': -128.2, 'Number_of_profit': 12, 'Gross_Profit': 729.1, 'Net_Profit/Loss': 600.9}
+
+{'measure': 'ratio', 'zscore_type': '(value-mean)/std', 'Number_of_loss': 7, 'Gross_Loss': -699.8, 'Number_of_profit': 16, 'Gross_Profit': 940.45, 'Net_Profit/Loss': 240.65}
+
+{'measure': 'ratio', 'zscore_type': '(value-cumulative mean)/cumulative std', 'Number_of_loss': 6, 'Gross_Loss': -396.8, 'Number_of_profit': 17, 'Gross_Profit': 965.75, 'Net_Profit/Loss': 568.95}
+
+{'measure': 'spread', 'zscore_type': '(1dMA-21dMA)/21dstd', 'Number_of_loss': 8, 'Gross_Loss': -478.4, 'Number_of_profit': 13, 'Gross_Profit': 453.05, 'Net_Profit/Loss': -25.35}
+
+{'measure': 'spread', 'zscore_type': '(5dMA-21dMA)/21dstd', 'Number_of_loss': 0, 'Gross_Loss': 0, 'Number_of_profit': 1, 'Gross_Profit': 3.65, 'Net_Profit/Loss': 3.65}
+
+{'measure': 'spread', 'zscore_type': '(value-mean)/std', 'Number_of_loss': 11, 'Gross_Loss': -968.45, 'Number_of_profit': 10, 'Gross_Profit': 489.3, 'Net_Profit/Loss': -479.15}
+
+{'measure': 'spread', 'zscore_type': '(value-cumulative mean)/cumulative std', 'Number_of_loss': 6, 'Gross_Loss': -737.9, 'Number_of_profit': 17, 'Gross_Profit': 875.25, 'Net_Profit/Loss': 137.35}
+
+{'measure': 'differential', 'zscore_type': '(1dMA-21dMA)/21dstd', 'Number_of_loss': 7, 'Gross_Loss': -337.05, 'Number_of_profit': 16, 'Gross_Profit': 1082.75, 'Net_Profit/Loss': 745.7}
+
+{'measure': 'differential', 'zscore_type': '(5dMA-21dMA)/21dstd', 'Number_of_loss': 3, 'Gross_Loss': -116.05, 'Number_of_profit': 13, 'Gross_Profit': 772.85, 'Net_Profit/Loss': 656.8}
+
+{'measure': 'differential', 'zscore_type': '(value-mean)/std', 'Number_of_loss': 9, 'Gross_Loss': -833.3, 'Number_of_profit': 14, 'Gross_Profit': 524.15, 'Net_Profit/Loss': -309.15}
+
+{'measure': 'differential', 'zscore_type': '(value-cumulative mean)/cumulative std', 'Number_of_loss': 5, 'Gross_Loss': -376.0, 'Number_of_profit': 18, 'Gross_Profit': 996.25, 'Net_Profit/Loss': 620.25}
+
+{'measure': 'OLS', 'zscore_type': '(1dMA-21dMA)/21dstd', 'Number_of_loss': 12, 'Gross_Loss': -712.4, 'Number_of_profit': 11, 'Gross_Profit': 592.85, 'Net_Profit/Loss': -119.55}
+
+{'measure': 'OLS', 'zscore_type': '(5dMA-21dMA)/21dstd', 'Number_of_loss': 10, 'Gross_Loss': -330.3, 'Number_of_profit': 13, 'Gross_Profit': 402.8, 'Net_Profit/Loss': 72.5}
+
+{'measure': 'OLS', 'zscore_type': '(value-mean)/std', 'Number_of_loss': 13, 'Gross_Loss': -566.9, 'Number_of_profit': 10, 'Gross_Profit': 796.65, 'Net_Profit/Loss': 229.75}
+
+{'measure': 'OLS', 'zscore_type': '(value-cumulative mean)/cumulative std', 'Number_of_loss': 13, 'Gross_Loss': -604.35, 'Number_of_profit': 10, 'Gross_Profit': 431.15, 'Net_Profit/Loss': -173.2}
